@@ -1,4 +1,4 @@
-package Test;
+:wqpackage Test;
 
 import java.io.BufferedReader;
 import java.io.IOException;
